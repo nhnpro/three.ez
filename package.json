@@ -6,8 +6,8 @@
   "license": "MIT",
   "main": "bundle.js",
   "types": "index.d.ts",
-  "homepage": "https://agargaro.github.io/three.ez",
-  "repository": "https://github.com/agargaro/three.ez",
+  "homepage": "https://github.com/nhnpro/three.ez",
+  "repository": "https://github.com/nhnpro/three.ez",
   "keywords": [
     "three",
     "three.js",
